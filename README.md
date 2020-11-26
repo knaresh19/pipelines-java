@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SGPNKAVURU/MyProject/_apis/build/status/knaresh19.pipelines-java?branchName=master)](https://dev.azure.com/SGPNKAVURU/MyProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
